@@ -1,0 +1,26 @@
+{
+  "name": "alandothree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitalando/alandothree.githttps:.git"
+  },
+  "dependencies": {
+    "alvaracodetea2": "1.0.0",
+    "alvarateacomp": "1.0.0",
+    "alandotetwo": "1.0.0",
+    "anthonytealv2": "1.0.0",
+    "anthonytealv": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitalando/alandothree.githttps:/issues"
+  },
+  "homepage": "https://github.com/gitalando/alandothree.githttps:#readme"
+}
